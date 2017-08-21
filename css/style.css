@@ -8,6 +8,7 @@ body {
 .product-grid {}
 .product-grid .title {
 	color: #5C656E;
+	font-size: 29px;
 	font-weight: 600;
 	margin-bottom: 20px;
 }
